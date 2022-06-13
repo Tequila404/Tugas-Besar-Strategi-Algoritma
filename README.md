@@ -1,3 +1,6 @@
 # Tugas-Besar-Strategi-Algoritma
 
-download juga gambarnya
+Anggota Kelompok 
+  - 1301204377  KEVIN IMANUEL GINTING
+  - 1301204372  THESSALONIKA ALEXANDRA MANURUNG
+  - 1301204271  BAGAS HARYO PUTRANTO
