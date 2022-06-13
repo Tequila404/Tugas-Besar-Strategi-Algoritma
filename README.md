@@ -1,4 +1,4 @@
-# Tugas-Besar-Strategi-Algoritma
+# Source Code Tugas Besar Strategi Algoritma
 
 Anggota Kelompok 14
   - 1301204377  KEVIN IMANUEL GINTING
